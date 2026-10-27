@@ -1,0 +1,10 @@
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "Shows context window consumption and raises escalating warnings at every additional 10% used.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Yuds16"
+  }
+}

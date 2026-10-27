@@ -1,0 +1,5 @@
+{
+  "name": "context-meter",
+  "owner": { "name": "Yuds16" },
+  "plugins": [{ "name": "context-meter", "source": "./" }]
+}
